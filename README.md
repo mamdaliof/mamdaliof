@@ -3,6 +3,10 @@
   <img src="./github-header-banner.png" alt="Robotics header banner" style="width: 100%; height: auto;" />
 </p>
 
+<p align="center">
+  Hi, my name is Farhad.
+</p>
+
 ## Robotics & Computer Vision Engineer
 
 - Currently at Fraunhofer (Advanced Manufacturing).
