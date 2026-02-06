@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Farhad Hoseyni](https://mamdaliof.github.io/)
 
-<img align="right" alt="Robotics Animation" height="150px" src="https://github.com/mdazfar2/Cool-GIFs-For-GitHub/raw/main/Gifs/Robot.gif" />
+<img align="right" alt="Robotics Animation" height="150px" src="./github-header-banner.png" />
 
 ## Robotics & Computer Vision Engineer
 
